@@ -233,3 +233,13 @@ Each topic includes:
 ---
 
 ### ⭐ If you find this repository useful, consider giving it a Star!
+
+Java/
+│
+├── README.md                 # Complete Notes
+├── Interview-Questions.md
+├── Internal-Working.md
+├── Best-Practices.md
+├── Code-Examples/
+├── Diagrams/
+└── Resources.md
